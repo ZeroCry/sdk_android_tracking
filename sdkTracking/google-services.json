@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_id": "px-android",
+    "project_number": "347348795609",
+    "name": "px-android"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347348795609:android:282dd46333a9a0f7",
+        "client_id": "android:com.mercadopago.mptracker",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.mercadopago.mptracker",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-75866722-2"
+          }
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
